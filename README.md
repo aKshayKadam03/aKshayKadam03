@@ -17,3 +17,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 [![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealdrtroll)](https://github.com/anuraghazra/github-readme-stats)
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealdrtroll&hide=contribs,prs)
