@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am Harsh Gaur and I am an aspiring full stack developer residing in New Delhi, India. I am currnetly learning full stack web development at [masai school](https://www.masaischool.com/). I love to build web apps using React and solve problems on data structures and algorithms.
+I am Akshay Kadam and I am an aspiring full stack developer residing in New Delhi, India. I am currnetly learning full stack web development at [masai school](https://www.masaischool.com/). I love to build web apps using React and solve problems on data structures and algorithms.
 
 <br/>
 
@@ -10,7 +10,7 @@ I am Harsh Gaur and I am an aspiring full stack developer residing in New Delhi,
 
 - 👯 I’m actively looking for oppotunities in full stack web development.
 - 🌱 I’m currently learning and building projects using MERN stack.
-- :pencil2: I Write blogs on [dev.to](https://dev.to/iharshgaur) on free days.
+ 
 
 <br/>
 
@@ -38,11 +38,11 @@ I am Harsh Gaur and I am an aspiring full stack developer residing in New Delhi,
 
 ## &#x1f4c8; GitHub Stats
 
-![Harsh Gaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=iharshgaur&show_icons=true&theme=radical)
+![Akshay Kadam GitHub stats](https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&theme=radical)
 
  <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iharshgaur&bg_color=0D1117&color=ffffff&line=1655C1&point=D93A7C&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=therealdrtroll&bg_color=0D1117&color=ffffff&line=1655C1&point=D93A7C&area=true&hide_border=true)
 
 <br/>
 <br/>
