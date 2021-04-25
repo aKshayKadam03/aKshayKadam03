@@ -37,7 +37,7 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in New Delh
 
 ## &#x1f4c8; GitHub Stats
 
-![Akshay Kadam GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan007&show_icons=true&theme=radical)
+![Akshay Kadam GitHub stats](https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&theme=radical)
 
  <br />
 
