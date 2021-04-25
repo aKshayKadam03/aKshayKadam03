@@ -1,5 +1,4 @@
-![top](https://svgshare.com/i/WVU.svg)
-
+ 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I am Akshay Kadam and I am an aspiring full stack developer residing in New Delhi, India. I am currnetly learning full stack web development at [masai school](https://www.masaischool.com/). I love to build web apps using React and solve problems on data structures and algorithms.
@@ -63,4 +62,4 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in New Delh
 
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-![bottom](https://svgshare.com/i/WVV.svg)
+ 
