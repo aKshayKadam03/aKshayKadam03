@@ -1,18 +1,17 @@
  
 <p align='center'>
- 
 Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing in Karnataka, India. I am currently learning full stack web development at [masai school](https://www.masaischool.com/). More than just coding, I am passionate about building applications and solving real world problems.
+</p>
 
+<p align='center'>
 ⚡ Little bit more about me:
-
 - 👯 I’m actively looking for oppotunities in full stack web development.
 - 🌱 I’m currently learning and building projects using MERN stack.
 </p>
  
 <p align='center'>
 
- 🛠  Interests/Skills<br/><br/>
- 
+🛠  Interests/Skills<br/><br/>
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -40,7 +39,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </p>
 
  <p align='center'>
-  💻 My workspace<br/>
+  💻 Find me else where<br/>
   <br/>
   <a href="https://twitter.com/sleepingyoda1/">
     <img src="https://img.shields.io/badge/sleepingyoda1-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
