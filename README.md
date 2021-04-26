@@ -1,7 +1,8 @@
 
 ## About
   </br>
-Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing in Karnataka, India. I am currently learning full stack web development at [masai school](https://www.masaischool.com/). More than just coding, I am passionate about building applications and solving real world problems.
+Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing in Karnataka, India. I am currently learning full stack web development at 
+[MASAI SCHOOL](https://www.masaischool.com/). More than just coding, I am passionate about building applications and solving real world problems.
 
 ⚡ A little bit more about me:</br>
 
