@@ -40,20 +40,24 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
 <br/>
 <br/>
 
-### Let's Connect :coffee:
+### Find me else where
 
-<p align="center">
-	<a href="https://github.com/iharshgaur">
-   <img src="https://img.icons8.com/nolan/50/github.png"/></a>
-	<a href="https://www.linkedin.com/in/harshgaur97/">
-<img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
-	<a href="https://harshgaur.tech/">
-   <img src="https://img.icons8.com/nolan/50/domain.png"/></a>
-	<a href="https://medium.com/@harshgaur997">
-    <img src="https://img.icons8.com/nolan/50/medium-new.png"/></a>
-	<a href="https://leetcode.com/harshgaur997/">
-    <img src="https://img.icons8.com/nolan/50/code.png"/></a>
-</p>
+<!-- <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
+<!-- 	<img alt="Twitter" src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> -->
+<!-- <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> -->
+<!-- <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/> -->
+<!-- <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> -->
+
+
+
+<a href="https://www.linkedin.com/in/harshgaur97/"> 
+	![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+</a>
+	
+<!-- <a href="https://harshgaur.tech/"> -->
+<!-- 	<a href="https://medium.com/@harshgaur997"> -->
+
+ 
 
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
