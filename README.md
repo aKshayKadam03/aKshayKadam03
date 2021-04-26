@@ -35,6 +35,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </br>
  
 ## 💻 My workspace 
+
 <p align='center'>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/amd%20Ryzen%205-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
@@ -47,6 +48,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </br>
  
 ## :construction_worker: Stats So Far 
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="500"></a>
 </p>
@@ -56,6 +58,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </br>
  
 ## :earth_asia: Find me else where
+
  <p align='center'>
 
   <br/>
