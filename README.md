@@ -4,13 +4,20 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </p>
 
 <p align='center'>
-⚡ Little bit more about me:
-- 👯 I’m actively looking for oppotunities in full stack web development.
-- 🌱 I’m currently learning and building projects using MERN stack.
+
+⚡ A little bit more about me:</br></br>
+
+- 👯 I’m actively looking for opportunities in full-stack web development.
+- 🌱 I’m currently learning and building projects using the MERN stack.
 </p>
  
 <p align='center'>
 
+</br>
+</br>
+</br>
+</br>
+ 
 🛠  Interests/Skills<br/><br/>
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -24,6 +31,10 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 
  </p> 
  
+</br>
+</br>
+</br>
+</br>
  
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -33,10 +44,22 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+</br>
+</br>
+</br>
+</br>
+ 
 
 <p align='center'>
+ 💻 Stats<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
+
+</br>
+</br>
+</br>
+</br>
+ 
 
  <p align='center'>
   💻 Find me else where<br/>
@@ -55,6 +78,11 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
   </a>&nbsp;&nbsp;
  </p>
 
+</br>
+</br>
+</br>
+</br>
+ 
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
  
