@@ -48,7 +48,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
  
 ## :construction_worker: Stats So Far 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="650"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="500"></a>
 </p>
  
  
