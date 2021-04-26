@@ -38,17 +38,10 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-## &#x1f4c8; GitHub Stats
 
-![Akshay Kadam GitHub stats](https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&theme=radical)
-
- <br />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=therealdrtroll&bg_color=0D1117&color=ffffff&line=1655C1&point=D93A7C&area=true&hide_border=true)
-
-<br/>
-<br/>
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="350"></a>
+</p>
 
  <p align='center'>
   💻 My workspace<br/>
