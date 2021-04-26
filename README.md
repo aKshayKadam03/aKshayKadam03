@@ -46,7 +46,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </br>
 </br>
  
-## 💻 Stats So Far 
+## :construction_worker: Stats So Far 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="650"></a>
 </p>
@@ -55,7 +55,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 </br>
 </br>
  
-## Find me else where
+## :earth_asia: Find me else where
  <p align='center'>
 
   <br/>
