@@ -67,7 +67,7 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
   </a>&nbsp;&nbsp;
   
    <a href="https://discord.gg/xv2YmQ6M">
-    <img src="https://img.shields.io/badge/%3Cdrtroll%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/drtroll-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
  
  </p>
