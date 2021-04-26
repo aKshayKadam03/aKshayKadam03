@@ -51,7 +51,8 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
 
 
  <p align='center'>
-  💻 My workspace<br/> 
+  💻 My workspace<br/>
+  <br/>
   <a href="https://twitter.com/sleepingyoda1/">
     <img src="https://img.shields.io/badge/sleepingyoda1-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
