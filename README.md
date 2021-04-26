@@ -10,11 +10,6 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
  
  
 <p align='center'>
-
-</br>
-</br>
- 
- 
  
 ## 🛠 Interests/Skills
  
