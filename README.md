@@ -49,9 +49,11 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
 <br/>
 <br/>
 
+
+ <p align='center'>
 ### Find me else where
  
- 
+
   <a href="https://twitter.com/sleepingyoda1/">
     <img src="https://img.shields.io/badge/sleepingyoda1-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -65,10 +67,10 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
   </a>&nbsp;&nbsp;
   
    <a href="https://discord.gg/xv2YmQ6M">
-    <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/%3Cdrtroll%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
  
- 
+ </p>
 
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
