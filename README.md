@@ -1,22 +1,18 @@
  
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I am Akshay Kadam and I am an aspiring full stack developer residing in Karnataka, India. I am currently learning full stack web development at [masai school](https://www.masaischool.com/). More than just coding, I am passionate about building applications and solving real world problems.
-
-<br/>
+<p align='center'>
+ 
+Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing in Karnataka, India. I am currently learning full stack web development at [masai school](https://www.masaischool.com/). More than just coding, I am passionate about building applications and solving real world problems.
 
 ⚡ Little bit more about me:
 
 - 👯 I’m actively looking for oppotunities in full stack web development.
 - 🌱 I’m currently learning and building projects using MERN stack.
+</p>
  
+<p align='center'>
 
-<br/>
-
-### 🛠 &nbsp;Interests/Skills
-
-</br>
-
+ 🛠  Interests/Skills<br/><br/>
+ 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -27,7 +23,7 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
- <br/>
+ </p> 
  
  
 <p align='center'>
