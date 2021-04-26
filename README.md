@@ -32,7 +32,7 @@ Masai School. More than just coding, I am passionate about building applications
 </br>
 </br>
  
-## 💻 My workspace 
+## 💻 My Workspace 
 </br>
 <p align='center'>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
