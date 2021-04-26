@@ -11,6 +11,8 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
  
 <p align='center'>
 
+</br>
+</br>
  
  
  
@@ -29,6 +31,9 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
  </p> 
  
  
+</br>
+</br>
+ 
 ## 💻 My workspace 
 <p align='center'>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -36,6 +41,10 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
+
+</br>
+</br>
  
 ## 💻 Stats So Far 
 <p align='center'>
@@ -43,6 +52,9 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
  
+ 
+</br>
+</br>
  
 ## Find me else where
  <p align='center'>
