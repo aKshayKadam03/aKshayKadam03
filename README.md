@@ -43,19 +43,19 @@ I am Akshay Kadam and I am an aspiring full stack developer residing in Karnatak
 ### Find me else where
  
  <center>
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://twitter.com/sleepingyoda1/">
     <img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/akshaykadam7991/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-   <a href="https://www.linkedin.com/in/alexandresanlim/">
+   <a href="https://ar1pperk.medium.com/">
     <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-   <a href="https://www.linkedin.com/in/alexandresanlim/">
+   <a href="https://discord.gg/xv2YmQ6M">
     <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
   </center>
