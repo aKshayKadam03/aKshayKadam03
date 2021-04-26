@@ -11,9 +11,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
  
 <p align='center'>
 
-</br>
-</br>
-</br>
+ 
  
  
 ## 🛠 Interests/Skills
@@ -30,9 +28,6 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
 
  </p> 
  
-</br>
-</br>
-</br>
  
 ## 💻 My workspace 
 <p align='center'>
@@ -41,22 +36,13 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
-</br>
-</br>
-</br>
- 
  
 ## 💻 Stats So Far 
 <p align='center'>
  💻 Stats<br/><br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="350"></a>
 </p>
-
-</br>
-</br>
-</br>
-</br>
+ 
  
 ## Find me else where
  <p align='center'>
@@ -76,10 +62,7 @@ Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing 
   </a>&nbsp;&nbsp;
  </p>
 
-</br>
-</br>
-</br>
-</br>
+
  
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
