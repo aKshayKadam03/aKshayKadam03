@@ -16,7 +16,7 @@ Masai School. More than just coding, I am passionate about building applications
 
  </br>
  
-<p align='center'>
+<div align='center'>
   
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -26,7 +26,7 @@ Masai School. More than just coding, I am passionate about building applications
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
   
-</p> 
+</div> 
  
  
 </br>
