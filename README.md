@@ -27,9 +27,6 @@ Masai School. More than just coding, I am passionate about building applications
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
   
 </div> 
- 
- 
-</br>
 </br>
  
 ## 💻 My Workspace 
@@ -41,8 +38,6 @@ Masai School. More than just coding, I am passionate about building applications
   <img src="https://img.shields.io/badge/nvidia-rtx%202060 Super-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-
-</br>
 </br>
  
 ## :construction_worker: Stats So Far 
@@ -50,9 +45,6 @@ Masai School. More than just coding, I am passionate about building applications
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="500"></a>
 </p>
- 
- 
-</br>
 </br>
  
 ## :earth_asia: Find me else where
