@@ -2,7 +2,7 @@
 ## About
   </br>
 Hey there, I am Akshay Kadam and I am an aspiring full stack developer residing in Karnataka, India. I am currently learning full stack web development at  
-Masai School. More than just coding, I am passionate about building applications and solving real world problems.
+Masai School. More than just coding, I love applications and solving real world problems.
 
 I am currently working as an associate product engineer @urbanpiper
  
