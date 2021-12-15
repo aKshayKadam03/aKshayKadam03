@@ -1,9 +1,7 @@
 
 ## About
   </br>
-Hey there, I am Akshay Kadam and I am full stack developer residing in Karnataka, India. More than just coding, I love building applications and solving real world problems.
-
-I am currently working as an associate product engineer @urbanpiper
+Currently working as an associate product engineer @urbanpiper
  
  
 <p align='center'>
