@@ -37,7 +37,7 @@ Currently working as an associate product engineer @urbanpiper
 ## :construction_worker: Stats So Far 
 </br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=aKshayKadam03&show_icons=true&count_private=true&theme=radical" width="500"></a>
 </p>
 </br>
  
