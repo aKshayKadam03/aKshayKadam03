@@ -1,7 +1,7 @@
 
 ## About
   </br>
-Currently working as an associate product engineer @urbanpiper
+Currently working as Product Engineer @urbanpiper
  
  
 <p align='center'>
