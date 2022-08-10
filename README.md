@@ -1,8 +1,9 @@
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aKshayKadam03&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
+
 
 ## About
   </br>
 Currently working as Product Engineer @urbanpiper
- 
  
 <p align='center'>
  
